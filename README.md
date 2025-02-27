@@ -159,14 +159,14 @@ comment-system/
 │   ├── .env                 # Environment Variables
 │   ├── package.json         # Backend Dependencies
 │   ├── server.js            # Main Express Server File
-│── front-end/               # Frontend (React + Vite)
+│── front-end/
 │   ├── src/                 # React Source Code
-│   ├── components/          # UI Components
+│   ├── Comment.jsx          
+│   ├── CommentForm.jsx
 │   ├── App.jsx              # Main App Component
 │   ├── main.jsx             # React Root
-│   ├── vite.config.js       # Vite Configuration
 │── README.md                # Documentation
-│── .gitignore               # Ignore files
+│── .gitignore
 ```
 
 ---
