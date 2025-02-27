@@ -21,10 +21,6 @@ body {
   will-change: transform;
 }
 
-/* .app-container:hover {
-  transform: scale(1.02);
-} */
-
 h1 {
   text-align: center;
   color: #007bff;
