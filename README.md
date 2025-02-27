@@ -167,7 +167,6 @@ comment-system/
 │   ├── vite.config.js       # Vite Configuration
 │── README.md                # Documentation
 │── .gitignore               # Ignore files
-│── package.json             # Project dependencies
 ```
 
 ---
